@@ -6,12 +6,12 @@ Big disclaimer here: I did not invented this hack, I discovered it with [this co
 
 The modifications we will be doing to the camera are reversible dans not directly soldered to the board, making it easy to swap if you need to get back to a normal toy camera.
 
-## *What is circuit bending
+## *What is circuit bending*
 
 Wikipedia says circuit bending is the creative customization of the circuits within electronic devices such as children's toys and digital synthesizer to create new musical or visual instruments and sound generators. Circuit bending is manipulating a circuit to get an output that was not intended by the manufacturer.
 It is a really interesting and creative topic, but sometimes I find that it can get quite esoteric and difficult to understand, especially if you have no knowledge in electronics to begin with.
 
-## *How this circuit bend works ?
+## *How this circuit bend works ?*
 
 Within this camera, there is a camera module, sending information to the motherboard inside the main body. This camera basically tells what it sees throught electric signals in 24 tiny cables and the motherboard is processing this signal to display it on the screen and save it on the SD card. 
 
@@ -19,7 +19,7 @@ What we want to do is mix thoses signals together by shorting some pins together
 
 To achieve this, you are supposed to solder tiny enameled copper wire to the 0.5mm connector pins on the main board, but it was way too difficult for me so I found an other way using adaptor cards and a spare ribbon cable.
 
-## *Tools and materials you will need
+## *Tools and materials you will need*
 
 ### [The toy camera](https://www.amazon.fr/Faburo-Appareil-Num%C3%A9rique-Mpixels-Gar%C3%A7ons/dp/B07W45FTG8)
 The Toy camera I used was [this Faburo Toy Camera](https://www.amazon.fr/Faburo-Appareil-Num%C3%A9rique-Mpixels-Gar%C3%A7ons/dp/B07W45FTG8). It is available on amazon and is pretty cheap, around 16 euros. There are also the same cameras available on aliexpress for a little cheaper if you are willing to wait a little bit more. Also, it is a good idea to check on the seconde hand market first, I found several there.
