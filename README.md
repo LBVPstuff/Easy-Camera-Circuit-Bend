@@ -44,6 +44,7 @@ _______________________________________________________________________________
 ### Two rows 24 pins headers
 
 I used a longer one that I trimmed to size, but you can find 24pins ones if you want. This will be used to connect the two adapter boards together. Alternatively, you can connect the big pins from the adapter boards directly to other stuff you want to use to short the pins, but I find this much easier and will be handy later.
+
 <img src="Readme ressources/IMG_20250215_151742.jpg">
 
 _______________________________________________________________________________
@@ -83,9 +84,19 @@ We will be using it to disassemble the camera
 
 
 
+## *Here are some picture I took with it*
 
+The timestamp can be removed in the parameters of the camera, and the image quality (mostly the size of the image on your SD card) can be changed as well.
 
-
+<img src="Some picture I took/PICT0035.jpg">
+<img src="Some picture I took/PICT0048.jpg">
+<img src="Some picture I took/PICT0053.jpg">
+<img src="Some picture I took/PICT0093.jpg">
+<img src="Some picture I took/PICT0104.jpg">
+<img src="Some picture I took/PICT0114.jpg">
+<img src="Some picture I took/PICT0125.jpg">
+<img src="Some picture I took/PICT0133.jpg">
+<img src="Some picture I took/PICT0165.jpg">
 
 
 
