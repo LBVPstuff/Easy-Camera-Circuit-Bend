@@ -2,7 +2,9 @@
 
 An easy way to circuit bend a toy camera with a CMOS chip to take glitchy pictures, with only basic skills needed in soldering.
 
-**Big disclaimer here:** I did not invented this hack, I discovered it with [this cool video](https://www.youtube.com/watch?v=hnv6Nud2QAo) by [overwhelminglyneutral (cool person)](https://www.youtube.com/@oneutral101) and I wanted to add more to it while making it more practical to use, by being able to switch between different effects.
+<img src="Readme ressources/preview.png">
+
+:warning: **Big disclaimer here:** I did not invented this hack, I discovered it with [this cool video](https://www.youtube.com/watch?v=hnv6Nud2QAo) by [overwhelminglyneutral (cool person)](https://www.youtube.com/@oneutral101) and I wanted to add more to it while making it more practical to use, by being able to switch between different effects.
 
 The modifications we will be doing to the camera are reversible and not directly soldered to the board, making it easy to swap if you need to get back to a normal toy camera.
 
@@ -28,15 +30,19 @@ This circuit bend probably also work on many other cheap toy camera such as thes
 _______________________________________________________________________________
 ### Two [24 pin Ribbon cable to pins converter boards](https://fr.aliexpress.com/item/1005005485116729.html?spm=a2g0o.detail.pcDetailTopMoreOtherSeller.6.f003nvO5nvO55p&gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=dd1d1b7d-951f-4a07-9ccf-86fbf27bccbe&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:dd1d1b7d-951f-4a07-9ccf-86fbf27bccbe,tpp_buckets:668%232846%238113%231998&pdp_npi=4%40dis%21EUR%212.00%210.99%21%21%2114.70%217.27%21%40211b61a417367906687343405e3798%2112000033269437110%21rec%21FR%21%21ABX&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A)
 I ordered them from aliexpress because it was the easiest way for me to souce these parts. The most important thing to know is that we need a **24pin adaptor with 0.5mm of paths thickness**. So make sure to tick the same boxes like in the picture when you order. **We will need 2 of these.**
+
+<img src="Readme ressources/IMG_20250215_151707.jpg">
 _______________________________________________________________________________
 ### Two rows 24 pins headers
 
 I used a longer one that I trimmed to size, but you can find 24pins ones if you want. This will be used to connect the two adapter boards together. Alternatively, you can connect the big pins from the adapter boards directly to other stuff you want to use to short the pins, but I find this much easier and will be handy later.
+<img src="Readme ressources/IMG_20250215_151742.jpg">
 _______________________________________________________________________________
-### Longer 24pin ribbon cable
+### Longer [24pin ribbon cable](https://fr.aliexpress.com/item/1005005982573926.html?spm=a2g0o.order_list.order_list_main.22.15f35e5bKARcTH&gatewayAdapt=glo2fra)
 In order to connect the adaptor boards back to the main board of the camera, we will need another ribbon cable like this one :
+<img src="Readme ressources/IMG_20250215_151718.jpg">
 
-Make sure it is a **24pin ribbon cable with a thickness of 0.5mm**. I chose a length of 10cm, since it will more than enough for my case.
+:warning: Make sure it is a **24pin ribbon cable with a thickness of 0.5mm**. I chose a length of 10cm, since it will more than enough for my case.
 _______________________________________________________________________________
 
 ### Jumper wire
