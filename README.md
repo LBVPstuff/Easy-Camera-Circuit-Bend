@@ -80,8 +80,17 @@ We will be using it to disassemble the camera
 
 ## *Step by step guide*
 
+I made a video tutorial on Youtube that covers all the steps to assemble the module, i find it easier to understand this way:
 
+[![](https://img.youtube.com/vi/pKovYRPuqpo/0.jpg)](https://www.youtube.com/watch?v=pKovYRPuqpo)
 
+Also you can find the complete pinout of the bends I found with [this link](https://docs.google.com/spreadsheets/d/120eRuoZbcSEhcIwTfrmM8TAaZlizbV74gkXWp9CGXoM/edit?usp=sharing), or in PDF format in the folder Pinout] of this repo. As mentionned in the video, **I strongly advise you to test out the bends on your particular camera**, since those are very cheap and vary a lot on one another, even with the same models.
+
+## *Future of this project*
+
+I plan on doing "presets" for this camera. Using the exposed connector, i can plug a specific short that creates a glitch effect I like and have multiple of those presets modules into my pocket and switch between then idk.
+
+Also I would like to do some "shields" that plung onto the connectors and able manual control with switch and potentiometers over the more interestings bends such as the pin 1 6 and 20. I have drawn some ideas and I could be a cool project to learn about PCB making.
 
 
 ## *Here are some picture I took with it*
