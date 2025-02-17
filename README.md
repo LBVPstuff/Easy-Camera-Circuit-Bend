@@ -86,6 +86,16 @@ I made a video tutorial on Youtube that covers all the steps to assemble the mod
 
 Also you can find the complete pinout of the bends I found with [this link](https://docs.google.com/spreadsheets/d/120eRuoZbcSEhcIwTfrmM8TAaZlizbV74gkXWp9CGXoM/edit?usp=sharing), or in PDF format in the folder Pinout] of this repo. As mentionned in the video, **I strongly advise you to test out the bends on your particular camera**, since those are very cheap and vary a lot on one another, even with the same models.
 
+After completing the module and plugging it into the camera, you will need a way to hold everything together nicely. To do so, I 3D modeled a new case for the camera, with more space to fit everything into it. If you have access to a 3D printer, you can print this with the flat side facing down with no support.
+
+Then you just have to screw the camera module inside it, stick the connector pins throught the hole and plug the ribbon cable back into the camera. The current case holds together with duct tape but maybe later I will 3D model a new cas uses the screws used the hold the camera together originally.
+
+<img src="Case 3D model/3D model.jpg">
+
+:warning: **Make sure to test if the module works before putting it into its new case or it will be annoying to take it appart**
+
+The 3D model can be found in this repo into the **Case 3D model folder**.
+
 ## *Future of this project*
 
 I plan on doing "presets" for this camera. Using the exposed connector, i can plug a specific short that creates a glitch effect I like and have multiple of those presets modules into my pocket and switch between them idk.
@@ -96,7 +106,7 @@ Also I would like to do some "shields" that plung onto the connectors and able m
 
 ## *Here are some picture I took with it*
 
-The timestamp can be removed in the parameters of the camera, and the image quality (mostly the size of the image on your SD card) can be changed as well.
+The timestamp can be removed in the parameters of the camera, and the image quality (mostly the size of the image on your SD card) can be changed as well. I am using 2 jumper cables for most of my pictures.
 
 <img src="Some picture I took/PICT0035.jpg">
 <img src="Some picture I took/PICT0048.jpg">
