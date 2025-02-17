@@ -88,10 +88,11 @@ Also you can find the complete pinout of the bends I found with [this link](http
 
 ## *Future of this project*
 
-I plan on doing "presets" for this camera. Using the exposed connector, i can plug a specific short that creates a glitch effect I like and have multiple of those presets modules into my pocket and switch between then idk.
+I plan on doing "presets" for this camera. Using the exposed connector, i can plug a specific short that creates a glitch effect I like and have multiple of those presets modules into my pocket and switch between them idk.
 
 Also I would like to do some "shields" that plung onto the connectors and able manual control with switch and potentiometers over the more interestings bends such as the pin 1 6 and 20. I have drawn some ideas and I could be a cool project to learn about PCB making.
 
+<img src="Readme ressources/shields ideas.jpeg">
 
 ## *Here are some picture I took with it*
 
